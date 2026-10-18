@@ -1,0 +1,16 @@
+
+
+#cel {
+    display: flex;
+    border: 1px solid transparent;
+    
+}
+
+#cel-container {
+    display: flex;
+    width: 512px;
+    height: 512px;
+    border: 1px solid red;
+    flex-direction: row;
+    flex-wrap: wrap;
+}
